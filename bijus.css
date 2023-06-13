@@ -1,0 +1,192 @@
+body{
+    background-color: blueviolet;
+ }
+ #blur{
+ font-weight: lighter;
+ 
+     
+ }
+ .box{
+     border-radius: 5%;
+     border-color: black;
+     width: 300px;
+ }
+ .otp-field{
+ display:flex;
+ }
+ 
+ .otp-field input {
+     border-radius: 10px;
+     width: 500%;
+ }
+ #ok{
+ font-weight:lighter;
+ font-style:oblique;
+ color:blanchedalmond;
+ }
+ nav{
+     display: flex;
+ justify-content: center;
+ justify-content: space-around ;
+ padding: 12px;
+ }
+ nav ul li{
+     list-style:none ;
+ 
+ }
+ nav ul li a{
+     margin-inline: 12px;
+     color: yellow;
+ }
+ 
+ #study{
+     border-radius: 10px;
+     border-color: blue;
+     width: 20px;
+     background-color:darkmagenta ;
+     color: white;
+ }
+ #test{
+     width: 20px;
+     border-radius: 10px ;
+     background-color: darkmagenta;
+     color: white;
+ }
+ #ttn{
+     width: 20px;
+     border-radius: 10px;
+     background-color: darkmagenta;
+     color: white;
+     
+ }
+ .new{
+     
+    
+     text-decoration: solid;
+     border: 6px solid;
+     
+     padding: 12px;
+ }
+ #box{
+     border: 10px solid;
+     border-radius: 10px;
+     border-color:white;
+ ;}
+     #book{
+         border:10px solid;
+         border-radius: 20px;
+         text-align: center;
+         border-color: white;
+         padding: 10px;
+         height: 100%;
+     }
+     #NAMEE{
+         
+         width: 390px;
+         border-radius: 10px;
+     }
+     #NAME1{
+         width: 390px;
+         border-radius: 10px;
+     }
+     #left{
+         background-color: purple;
+         color:white;
+         
+     }
+ 
+     .mi{
+         width: 390px;
+         border-radius: 10px;
+ 
+     }
+     .go{
+         border-radius: 30px;
+         width: 200px;
+         height: 80px;
+         background-color: orange;
+         color: blanchedalmond;
+     }
+     .go:hover{
+         transition: 0.1s;
+         background-color: white;
+         color: black;
+     }
+     .to{
+    
+         text-align: center;
+         padding: 28px;
+         text-decoration:solid;
+     }
+     .container0{
+      border: 2px;   
+      border-radius: 10px;
+      color: beige;
+      background-color: black;
+     }
+     .ch{
+         background-color: yellow;
+         color: black;
+     }
+     .mottu{
+         border-radius: 50px;
+     width: 100%;
+     height:10% ;
+     background-color: orange;
+     color: azure;
+     
+     
+     }
+     .container8{
+         border: 2px;   
+      border-radius: 10px;
+      color: beige;
+      background-color: black;
+     }
+    
+     #web{
+ border: 20px;
+ border-radius: 50%;
+  border-color: black;
+  color: blanchedalmond;
+     }
+     #dis{
+         border:1px solid;
+         border-radius: 2%;
+         background-color: black;
+         color: white;
+         padding: 2%;
+     }
+     #sid{
+         border: 1px solid;
+         border-radius: 2%;
+         background-color: beige;
+         color: black;
+         padding: 2%;
+     }
+     .qq{
+         color:white;
+     }
+ #foot{
+     color: yellow;
+ }
+ .p1{
+     border-radius: 30px;
+     width: 250px;
+     height: 50px;
+     background-color: purple;
+     color: beige;
+ }
+ .p2{
+     color: white;
+ }
+ #nm{
+     border-radius: 20px;
+     width: 350px;
+ 
+ }
+ .b2{
+     color: black;
+     
+     text-decoration: solid;
+ }
